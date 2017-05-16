@@ -33,6 +33,7 @@ BSD_TOOLS := \
 OUR_TOOLS := \
     getevent \
     newfs_msdos \
+    klog \
 
 ALL_TOOLS = $(BSD_TOOLS) $(OUR_TOOLS)
 
